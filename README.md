@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Liora!
 
-👩‍💻 3rd-year Software Engineering student at Afeka College of Engineering, Tel Aviv  
-🔒 Starting my specialization in Information Security & Cyber
-👑 Former Java Instructor & Mentor at QueenB, empowering high school girls in tech
+👩‍💻 3rd-year Software Engineering student at Afeka College of Engineering, Tel Aviv<br>  
+🔒 Starting my specialization in Information Security & Cyber<br>
+👑 Former Java Instructor & Mentor at QueenB, empowering high school girls in tech<br>
 💡 Passionate about secure software design, low-level programming, and data analysis  
 
 ---
