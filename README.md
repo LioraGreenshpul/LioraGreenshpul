@@ -12,7 +12,7 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **OOP Final Project** | Object-Oriented design and implementation focusing on clean architecture and design patterns. | `Java` `OOP` | [View Repo](https://github.com/michal-lev/OOP_final_project) |
-| **DevTools Project** | Development tools, shell scripting, and environment automation workflow. | `Shell` `Git` `Linux` | [View Repo](https://github.com/michal-lev/devtools_final_project) |
+| **Automated Docker Deployment & Backup Pipeline** | Multi-container environment orchestration (Joomla & MySQL) with automated Bash scripts for environment setup, database backup/restore, and secure `.env` secret management. | `Docker` `Docker Compose` `Bash` `MySQL` | [View Repo](https://github.com/michal-lev/devtools_final_project) |
 | **Text Compression & Reconstruction** | Text analysis, word frequency statistics, and text reconstruction while preserving word positions and capitalization. | `C` `Pointers` `Dynamic Memory Allocation` | [View Repo](https://github.com/michal-lev/c_intro_task3) |
 
 ---
