@@ -2,7 +2,7 @@
 
 👩‍💻 3rd-year Software Engineering student at Afeka College of Engineering, Tel Aviv<br>
 🔒 Starting my specialization in Information Security & Cyber<br>
-👑 Former Java Instructor & Mentor at QueenB, empowering high school girls in tech<br>
+👑 Former Java Instructor & Mentor at QueenB, helping high school girls develop programming skills and build confidence in tech<br>
 💡 Passionate about secure software design, low-level programming, and data analysis  
 
 ---
