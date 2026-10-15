@@ -7,11 +7,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LioraGreenshpul&show_icons=true&theme=radical&hide_border=false" alt="Liora's GitHub stats" />
-</div>
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **OOP Final Project** | Object-Oriented design and implementation focusing on clean architecture and design patterns. | `Java` `OOP` | [View Repo](https://github.com/michal-lev/OOP_final_project) |
+| **DevTools Project** | Development tools, shell scripting, and environment automation workflow. | `Shell` `Git` `Linux` | [View Repo](https://github.com/michal-lev/devtools_final_project) |
 
 ---
 
