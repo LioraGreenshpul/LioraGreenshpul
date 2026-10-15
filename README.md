@@ -4,6 +4,7 @@
 🔒 Starting my specialization in Information Security & Cyber<br>
 👑 Former Java Instructor & Mentor at QueenB, helping high school girls develop programming skills and build confidence in tech<br>
 💡 Passionate about software development, cybersecurity, and computer networking.
+
 ---
 
 ### 🚀 Featured Projects
