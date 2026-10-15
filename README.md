@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Liora!
 
-<!--
-**LioraGreenshpul/LioraGreenshpul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 3rd-year Software Engineering student at Afeka College of Engineering, Tel Aviv  
+🔒 Starting my specialization in Information Security & Cyber
+👑 Former Java Instructor & Mentor at QueenB, empowering high school girls in tech
+💡 Passionate about secure software design, low-level programming, and data analysis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LioraGreenshpul&show_icons=true&theme=radical&hide_border=false" alt="Liora's GitHub stats" />
+</div>
+
+---
+
+### 💻 Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_MIPS-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+#### Security & Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
